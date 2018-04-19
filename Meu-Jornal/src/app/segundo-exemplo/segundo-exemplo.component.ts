@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./segundo-exemplo.component.css']
 })
 export class SegundoExemploComponent implements OnInit {
+sobrenome: string = ' ';
+
 
   constructor() { }
 
